@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LivePlaylist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tracks">Список треков</string>
+    <string name="empty_list">Треки отсутствуют</string>
+    <string name="playbtn">play</string>
+    <string name="id_hint"><font size="10">id компании</font></string>
+    <string name="code_hint"><font size="10">Кодовое слово</font></string>
+</resources>
